@@ -7,7 +7,7 @@
 </head>
 <body>
 	<form name="form">
-		<input type="text" id="key" placeholder="Введите числа или буквы"/>
+		<input type="text" id="key" placeholder="Введите числа или буквы">
 		<input type="submit" value="Запуск" onclick="send();">
 	</form>
 	<script type="text/javascript">
